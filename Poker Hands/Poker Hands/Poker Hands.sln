@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Poker Hands", "Poker Hands.vcxproj", "{237B9CA2-A33C-431D-9148-815031AD0F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Debug|x64.ActiveCfg = Debug|x64
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Debug|x64.Build.0 = Debug|x64
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Debug|x86.Build.0 = Debug|Win32
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Release|x64.ActiveCfg = Release|x64
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Release|x64.Build.0 = Release|x64
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Release|x86.ActiveCfg = Release|Win32
+		{237B9CA2-A33C-431D-9148-815031AD0F5B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0A3437-B604-434A-BB49-333CF4C6C3DC}
+	EndGlobalSection
+EndGlobal

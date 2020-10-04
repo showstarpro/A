@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch", 
+            "type": "cppdbg", 
+            "request": "launch", 
+            "program": "F:/ACM/suijishu/suiji.exe", 
+            "args": [], //输入参数,试过没用。。。
+            "stopAtEntry": true, 
+            "cwd": "${fileDirname}", 
+            "environment": [], 
+            "externalConsole": true, 
+            "internalConsoleOptions": "neverOpen",
+            "MIMode": "gdb", 
+            "miDebuggerPath": "gdb.exe", 
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": false
+                }
+            ],
+            "preLaunchTask": "Compile" 
+        }
+    ]
+}
